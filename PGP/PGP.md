@@ -10,6 +10,7 @@
 ## Code Signing Key
 ### Key purpose
 - Sign code / documents
+- Sign GitHub commits
 - Encrypt code / documents
 ### Key
 - Kitki30 Code Signing Key (kitki30@proton.me) - [https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Code%20Signing%20Key_0x6989BAEA_public.asc](https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Code%20Signing%20Key_0x6989BAEA_public.asc)
@@ -19,4 +20,4 @@
 - Sign e-mails
 - Encrypt e-mails
 ### Key
-- Kitki30 Mail Key (kitki30@proton.me) - [https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Mail%20Key_0xAACBA182_public.asc](https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Mail%20Key_0xAACBA182_public.asc)aw
+- Kitki30 Mail Key (kitki30@proton.me) - [https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Mail%20Key_0xAACBA182_public.asc](https://github.com/Kitki30/Kitki30/blob/main/PGP/Kitki30%20Mail%20Key_0xAACBA182_public.asc)
