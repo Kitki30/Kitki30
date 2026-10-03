@@ -1,4 +1,4 @@
 Hello, I'm Kitki30.
 
-- Contact: https://github.com/Kitki30/Kitki30/blob/main/Contact.md
-- PGP Keys: https://github.com/Kitki30/Kitki30/blob/main/PGP/PGP.md
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kitki30&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Kitki30&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=kitki30&langs_count=6&theme=dark_github)](https://wakatime.com/@kitki30)
